@@ -102,7 +102,7 @@ RandomSaturationRange=100
 
 [General]
 Blur=true
-ColorRandomization=true
+ColorRandomization=false
 Description=CandyFloss Colors
 Opacity=0.69
 Wallpaper=
