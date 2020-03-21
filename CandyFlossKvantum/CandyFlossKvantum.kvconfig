@@ -1,6 +1,6 @@
 [%General]
 author=Shaan Subbaiah
-comment=A pastel fork of Sweet by Eliver Lara. 
+comment=A pastel theme based on Sweet by Eliver Lara. 
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
