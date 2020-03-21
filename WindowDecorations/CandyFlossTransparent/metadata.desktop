@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=CandyFloss
-X-KDE-PluginInfo-Author=shaansubbaiah
+Name=CandyFlossTransparent
+X-KDE-PluginInfo-Author=Shaan Subbaiah
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Email=shaansubbaiah.cs18@bmsce.ac.in
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=CandyFloss
+X-KDE-PluginInfo-Name=CandyFlossTransparent
 X-KDE-PluginInfo-Version=1.0.0
