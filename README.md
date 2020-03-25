@@ -1,6 +1,8 @@
 # CandyFloss
 
-CandyFloss is based on Sweet by EliverLara, modified with pastel colors to match the wallpaper. Still WIP
+CandyFloss is based on [Sweet by EliverLara](https://github.com/EliverLara/Sweet), modified with pastel colors to match the wallpaper. Still WIP
+
+Check `how_to_install` in each directory for installation steps.
 
 ## Other Stuff 
 
@@ -8,7 +10,7 @@ CandyFloss is based on Sweet by EliverLara, modified with pastel colors to match
 * **Plasma** [Sweet](https://store.kde.org/p/1294174)
 * **Kvantum + Window Decorations + Konsole**: [CandyFloss](https://github.com/shaansubbaiah/CandyFloss)
 * **Icons**: [McMojave Circle](https://store.kde.org/p/1305429)
-* **Dock + Panel**: latte-dock-git
+* **Dock + Panel**: [latte-dock-git](https://github.com/KDE/latte-dock)
 * **Other**:
    * VSCode with 'Material - Ocean' Theme
    * Konsole with Oh-My-Zsh, Powerline 10K
